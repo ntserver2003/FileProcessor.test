@@ -23,4 +23,4 @@
   * журналирование - [NLog](https://www.nuget.org/packages/NLog/)
   * язык шаблонов (если необходимо) для использования в параметрах выполняемой команды - [Stubble.Core](https://www.nuget.org/packages/Stubble.Core/)
   * SSH - [SSH.NET](https://www.nuget.org/packages/SSH.NET)
-  * JSON - [Newtonsoft.Json/](https://www.nuget.org/packages/Newtonsoft.Json/)
+  * JSON - [Newtonsoft.Json](https://www.nuget.org/packages/Newtonsoft.Json/)
